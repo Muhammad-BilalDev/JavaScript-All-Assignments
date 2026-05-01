@@ -94,3 +94,36 @@
 // document.write("Result: ",updateNumber)
 
 
+// // ans(13)
+
+// // ans(14)
+// var userGet = prompt("Welcom to abc ")
+// var names = ["cake", "apple pie", "cookie", "chips", "patties"];
+// var match = false;
+// for (var i = 0; i < names.length; i++) {
+//     if (names[i] == userGet) {
+//         document.write("Cookie is available at index " + i + "  in our bakery")
+//     }
+// }
+// if (match == false) {
+//     document.write("We are sorry. ", userGet, " is not available in our bakery")
+// }
+// // ans(15)
+
+
+
+
+
+// // ans(16)
+// var university = "University of Karachi";
+// var universitySplit = university.split("")
+// // document.write(university.split(""))
+// for(var i = 0 ;i<universitySplit.length;i++){
+//     document.write(universitySplit[i]+"<br>")
+// }
+
+// // ans(17)
+// var userInput = "pakistan"
+// var lastIndex = userInput.charAt(userInput.length - 1)
+// document.write(lastIndex)
+
